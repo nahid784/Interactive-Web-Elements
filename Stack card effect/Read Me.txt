@@ -1,1 +1,1 @@
-Scrollung Stacking Cards with Elementor & GSAP using javascript codes and css id.
+Scrolling Stacking Cards with Elementor & GSAP using javascript codes and css id.
