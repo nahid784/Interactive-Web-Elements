@@ -1,1 +1,1 @@
-Stacking Cards with Elementor & GSAP using javascript codes and css id
+Stacking Cards with Elementor & GSAP using javascript codes and css id.
