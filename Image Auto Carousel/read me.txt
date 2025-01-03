@@ -1,0 +1,2 @@
+
+This CSS snippet ensures that the transitions for the .swiper-wrapper element progress at a constant speed at both sides (linear timing function), overriding other styles with !important. It includes vendor prefixes for compatibility across browsers like Chrome, Safari, Firefox, and Opera.
